@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:1px 1px;
+}
+.nav{
+    border:5px solid black;
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    padding:1px 10px 1px 1px;
+    
+}
+.nav,a{
+    text-decoration: none;
+    padding:4px 40px 1px 1px;
+    color:white;
+    /* text-align: justify; */
+}
+.nav,.login{
+    border:4px solid white;
+    border-collapse: separate;
+    color:blue;
+    border-radius: 20px;
+    padding:0.1em 1em;
+    text-decoration: none;
+    text-align: right;
+}
