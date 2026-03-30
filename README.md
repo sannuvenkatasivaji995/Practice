@@ -6,3 +6,7 @@ new
 logical
 dimentional side
  kohinoore
+ hello , 
+ how are you , 
+ tinnava , 
+ panukoo inkemundile
